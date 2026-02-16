@@ -1,5 +1,5 @@
 # EAI-Theory-Practice
-Embodied AI Theory And Practice such as course tutorial, comment on papers, and demo about RL, DiT, VLA, even humanoid control.
+Embodied AI Theory and Practice repository with tutorials, paper notes/comments, and practical algorithm demos for RL, DiT, VLA, and humanoid control.
 
 ## GRPO demo
 This repository now includes a minimal educational implementation of **GRPO (Group Relative Policy Optimization)** in `grpo.py`.
